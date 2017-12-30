@@ -1,0 +1,57 @@
+<!-- <button (click)="switchLanguage('en')">en</button>
+
+<button (click)="switchLanguage('fr')">fr</button> -->
+
+<!-- <div>
+  <select #langSelect (change)="translate.use(langSelect.value)">
+    <option *ngFor="let lang of translate.getLangs()" [value]="lang" [selected]="lang === translate.currentLang">{{ lang }}</option>
+  </select>
+  </div> -->
+
+<button (click)="switchLanguage('telugu')">telugu</button>
+<button (click)="switchLanguage('hindi')">hindi</button>
+
+
+
+<!-- <h1 translate>Title</h1> -->
+<!-- <div>
+  {{ 'Title' | translate:user }}
+</div><br/>
+
+<div>
+  {{ 'Intro' | translate:user }}
+</div><br/> -->
+
+
+<div>
+  {{ 'MY_PROFILE.Demographic_Info' | translate }}
+</div><br/>
+
+<div>
+  {{ 'MY_PROFILE.ID_Proofs' | translate }}
+</div><br/>
+
+<div>
+  {{ 'MY_PROFILE.Address' | translate }}
+</div><br/>
+
+<div>
+  {{ 'MY_PROFILE.Nominees' | translate }}
+</div><br/>
+
+<div>
+  {{ 'Header.MY_PROFILE' | translate }}
+</div><br/>
+
+<div>
+  {{ 'Header.SIGN_OUT' | translate }}
+</div><br/>
+
+<div>
+  {{ 'Header.NEED_HELP' | translate }}
+</div><br/>
+
+<div>
+  {{ 'Header.TIPS_FAQS' | translate }}
+</div><br/>
+

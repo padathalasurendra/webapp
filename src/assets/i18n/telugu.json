@@ -1,0 +1,18 @@
+{
+	"Header": {
+		"MY_PROFILE": "నా జీవన వివరణ",
+		"LANGUAGE": "LANGUAGE",
+		"NEED_HELP": "సహాయం కావాలి",
+		"TIPS_FAQS": "చిట్కాలు మరియు తరచూ అడిగిన ప్రశ్న",
+		"SIGN_OUT": "సైన్ అవుట్ చేయండి"
+	},
+	"MY_PROFILE": {
+		"Demographic_Info": "జనాభా సమాచారం",
+		"ID_Proofs": "గుర్తింపు ప్రమాణాలు",
+		"Address": "చిరునామా",
+		"Nominees": "నామినీస్",
+		"Farms": "ఫార్మ్ (లు)",
+		"My_Bank_Details": "నా బ్యాంక్ వివరాలు",
+		"Change_password": "రహస్య సంకేత పదం మార్చండి"
+	}
+}

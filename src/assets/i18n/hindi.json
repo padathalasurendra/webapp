@@ -1,0 +1,18 @@
+{
+    "Header": {
+		"MY_PROFILE": "मेरी प्रोफाइल",
+		"LANGUAGE": "LANGUAGE",
+		"NEED_HELP": "मदद चाहिए",
+		"TIPS_FAQS": "युक्तियाँ और आम सवाल",
+		"SIGN_OUT": "साइन आउट"
+	},
+    "MY_PROFILE": {
+    "Demographic_Info": "जनसांख्यिकी संबंधी",
+    "ID_Proofs": "पहचान पत्र",
+    "Address": "पता",
+    "Nominees": "नामांकित व्यक्ति",
+    "Farms": "कृषि-भूमि",
+    "My_Bank_Details": "मेरा बैंक विवरण",
+    "Change_password": "पासवर्ड बदलें"
+}
+}

@@ -1,0 +1,45 @@
+
+
+    <form class="form-horizontal" (submit)="ValidateUser($event)" ngNativeValidate>
+
+
+<!-- Form Name -->
+<legend>ValidateUser</legend>
+
+<!-- Text input-->
+<div class="form-group">
+  <label class="col-md-4 control-label" for="PhoneNumber">PhoneNumber</label>  
+  <div class="col-md-4">
+  <input id="PhoneNumber"  name="Phone_Number"  placeholder="PhoneNumber" class="form-control input-md" required="" type="text">
+   
+    
+  </div>
+</div>
+
+<!-- Text input-->
+<div class="form-group">
+  <label class="col-md-4 control-label" for="password">EmailId</label>  
+  <div class="col-md-4">
+  <input id="EmailId" name="EmailId" placeholder="EmailId" class="form-control input-md" required="">
+    
+  </div>
+</div>
+
+
+
+<!-- Button -->
+<div class="form-group">
+  <label class="col-md-4 control-label" for="changepwd"></label>
+  <div class="col-md-4">
+    <button id="changepwd"  type="submit" name="changepwd" class="btn btn-primary">Submit</button>
+  </div>
+</div>
+
+{{Phonenumber}}<br/>
+{{Emailid}}
+
+</form>
+
+
+
+
